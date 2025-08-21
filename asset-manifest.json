@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.314ebcc6.css",
+    "main.js": "/portfolio/static/js/main.05bcabb7.js",
+    "static/media/azur.png": "/portfolio/static/media/azur.49f644f0d7ed007a3b6a.png",
+    "static/media/MICProg.jpg": "/portfolio/static/media/MICProg.672e654a404b857b5928.jpg",
+    "static/media/googlecloud.jpg": "/portfolio/static/media/googlecloud.c5400bec68ec5609b99e.jpg",
+    "static/media/kpmg.png": "/portfolio/static/media/kpmg.de27a184998d51b4e9d6.png",
+    "static/media/Microsoft_MCP.png": "/portfolio/static/media/Microsoft_MCP.358b2f39e09ae0f140f3.png",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.4ba5ce56b6baef8850f7.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.314ebcc6.css.map": "/portfolio/static/css/main.314ebcc6.css.map",
+    "main.05bcabb7.js.map": "/portfolio/static/js/main.05bcabb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.314ebcc6.css",
+    "static/js/main.05bcabb7.js"
+  ]
+}
