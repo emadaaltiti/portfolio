@@ -1,25 +1,37 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect } from "react";
+import { initTheme, toggleTheme } from "./utils/theme";
 
-function App() {
+import { Navbar } from "./components/Navbar";
+import { Hero } from "./components/Hero";
+import { About } from "./components/About";
+import { Experience } from "./components/Experience";
+import { Skills } from "./components/Skills";
+import { Achievements } from "./components/Achievements";
+import { Contact } from "./components/Contact";
+
+import "./style.css";
+
+export default function App() {
+  useEffect(() => {
+    initTheme();
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navbar onToggleTheme={toggleTheme} />
+      <main>
+        <Hero />
+        <About />
+        <Experience />
+        <Skills />
+        <Achievements />
+        <Contact />
+      </main>
+      <footer className="footer">
+        <div className="container" style={{ textAlign: "center", fontSize: "0.9rem", color: "#6b7280" }}>
+          © {new Date().getFullYear()} • Crafted with ❤️ using React, CSS & Framer Motion
+        </div>
+      </footer>
+    </>
   );
 }
-
-export default App;

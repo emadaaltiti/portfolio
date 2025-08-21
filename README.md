@@ -1,70 +1,108 @@
-# Getting Started with Create React App
+# Emad Altiti – Senior Frontend Developer Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the portfolio of **Emad Altiti**, a Senior Frontend Developer with over 9 years of experience in building modern, scalable, and user-focused web applications. This portfolio showcases professional experience, certifications, achievements, and technical expertise.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌟 Professional Overview
 
-### `npm start`
+Results-driven Senior Frontend Developer with expertise in **React.js**, performance optimization, responsive UI/UX, and component-based design systems. Experienced in leading frontend architecture, delivering enterprise-grade platforms, and driving innovation in government and private sector projects in **Saudi Arabia** and **Jordan**.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Specializes in platforms for **project and portfolio management**, **strategic performance tracking**, and **AI-integrated solutions**, translating complex requirements into seamless, high-performance interfaces. Proven track record in mentoring developers, enforcing best practices, and delivering within **agile environments**.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 💼 Work Experience
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Assistant Manager – Senior Frontend Development  
+**KPMG, Amman, Jordan** | Jan 2023 - Present  
+- Led frontend development for the **Transformation Project Management (TPM)** platform, building scalable modules for risks, issues, milestones, and deliverables.  
+- Designed and delivered an **AI-powered chatbot** to optimize project management processes.  
+- Developed the **Pricing Calculator** and **Cost to Complete (CTC)** systems for financial planning and proposal management.  
+- Built a **full AI-powered portal** for the Expenditure Efficiency Authority (EXPRO) in Saudi Arabia, including intelligent document processing, dashboards, and automation tools.  
+- Managed frontend team tasks, code reviews, and onboarding for new developers.  
 
-### `npm run build`
+**Tech Stack:** React.js, TypeScript, Redux, SCSS, HTML5, Azure DevOps, Git, Jira, Figma  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Senior Frontend Developer  
+**Masterworks, Riyadh, Saudi Arabia** | May 2019 - Jan 2023  
+- Built **S+ Strategic Performance Management System** with real-time KPI tracking.  
+- Developed **P+ project & portfolio management platform**, including modules for projects, portfolios, risks, and change requests.  
+- Created dynamic dashboards using **amCharts, Chart.js, and Highcharts** for clients including **MOMRA**.  
+- Integrated **SSRS reports** and customized SharePoint lists/web parts.  
+- Sliced responsive UIs with **HTML/CSS/SCSS** following **Material Design standards**.  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Tech Stack:** React.js, TypeScript, SCSS, SSRS, SharePoint, Chart.js, amCharts, HTML  
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### App & Web Developer  
+**CG Imagine + Invent, Amman, Jordan** | Apr 2018 - Sep 2018  
+- Built websites using **Apostrophe CMS**.  
+- Developed dashboards and mobile apps for **Mender** and **Mercy Corps** using React.js & React Native.  
+- Created backend APIs with **NestJS, MongoDB, GraphQL**.  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Tech Stack:** React.js, React Native, NestJS, GraphQL, MongoDB, Apostrophe CMS  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Software Engineer  
+**PcNetSoft, Amman, Jordan** | Sep 2016 - Mar 2018  
+- Developed web and mobile applications using **React.js** and **Angular 2–4**.  
+- Built APIs with **Node.js/Express/Sequelize** and ERP modules with **Java SE/JavaFX**.  
+- Designed reports with **JasperReports** and collaborated with management for performance improvement.  
 
-## Learn More
+**Tech Stack:** React.js, Angular, Node.js, Java SE, JavaFX, JasperReports, Ionic, Git, Electron  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🎓 Education
 
-### Code Splitting
+**Bachelor’s Degree** – Computer Networks System | 2012–2016  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 🏆 Certifications & Achievements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- **Recognition Badge** – Expenditure and Project Efficiency Authority (EXPRO), 2025  
+  Received client recognition for outstanding contribution to the AI Portal (Vision AI project).  
+- **Azure Administrator Associate** – Microsoft  
+- **Google Cloud Digital Leader**  
+- **Programming in HTML5 with JavaScript and CSS3** – Microsoft  
+- **Software Engineering (MIC)**  
+- **LinkedIn Learning:** AI in Project Management, Administrative Professional, Communication Foundation, Microsoft 365 Essentials  
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## ⚡ Technical Skills
 
-### Advanced Configuration
+- **Frontend:** React.js, TypeScript, Redux, SCSS, HTML5, CSS3, Material Design  
+- **Backend:** Node.js, NestJS, GraphQL, MySQL, MongoDB  
+- **Tools & Platforms:** Azure DevOps, Git, Jira, Figma, SharePoint  
+- **UI/UX:** Responsive design, component-based systems, dashboards, charting libraries  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 📞 Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- **Phone:** +962790991214  
+- **Email:** emadaaltiti@outlook.com  
+- **Location:** Amman, Jordan  
+- **LinkedIn/GitHub:** [emadaltiti](https://linkedin.com/in/emadaltiti)  
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 💡 Portfolio Highlights
+
+This portfolio demonstrates:  
+- **AI-powered portals & dashboards** for enterprise clients  
+- **Project & portfolio management platforms**  
+- **Responsive modern interfaces** using React.js and SCSS  
+- **Team leadership & frontend architecture**  
+- **Integration with cloud services** (Azure & Google Cloud)  
+
+---
+
+**This project showcases Emad Altiti’s professional journey, achievements, and technical expertise as a Senior Frontend Developer.**
